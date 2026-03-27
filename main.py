@@ -8,7 +8,7 @@ def func1():
     return lst
 
 def func2(data):
-    print('Here is the data:')
+    print('Here is the datu ITS THE WORST DATA ... THE WORST ... CROOOKED DATA:')
     print(data)
 
     choice = ''
