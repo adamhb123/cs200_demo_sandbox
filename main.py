@@ -8,7 +8,11 @@ def func1():
     return lst
 
 def func2(data):
+<<<<<<< HEAD
     print('Here is the datu ITS THE WORST DATA ... THE WORST ... CROOOKED DATA:')
+=======
+    print('Here is the dato ITS GREAT DATA ... THE GREATEST:')
+>>>>>>> adam
     print(data)
 
     choice = ''
