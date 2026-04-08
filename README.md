@@ -8,9 +8,10 @@ This is a really great repository, where really great things happen.
 In fact, it's so good, that it's better than all the other ones.
 
 This is due to:
-1. It being better
+1. <b>It</b> being better
 2. It being even more better
 3. It being the betterest
+
 
 > Stuff
 >> Super stuff
